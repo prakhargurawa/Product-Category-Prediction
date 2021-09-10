@@ -14,3 +14,6 @@ The stores.json contains information like store id, type, name, address, hours e
 As each instanse can belong to multiple categories, so these types of problems are known as multi-label classification problem, where we have a set of target labels. If there are multiple categories but each instance is assigned only one, therefore such problems are known as multi-class classification problem.
 
 Multi-class problem acknowledge that all the classes are mutually exclusive, but in our case it is not as a product can belong to multiple classes/categories.
+
+I have followed the CRISP-DM process:
+![alt text](https://github.com/prakhargurawa/Product-Category-Prediction/blob/main/crisp.png?raw=true)
